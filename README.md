@@ -47,14 +47,21 @@ or [look at the layout in Oryx](https://configure.ergodox-ez.com/ergodox-ez/layo
     <th>Tilt kit</th>
     <th>Wing rest</th>
     <th>Shine</th>
-    <th>Keycaps</th>
-    <th>Switches</th>
   </tr>
   <tr>
     <td>Black</td>
     <td>Yes</td>
     <td>No</td>
     <td>Yes</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Keycaps</th>
+    <th>Switches</th>
+  </tr>
+  <tr>
     <td>Blank, sculpted keycaps</td>
     <td>Kailh Thick Gold</td>
   </tr>
