@@ -51,7 +51,7 @@ or [look at the layout in Oryx](https://configure.ergodox-ez.com/ergodox-ez/layo
   <tr>
     <td>Black</td>
     <td>Yes</td>
-    <td>No</td>
+    <td>No<sup>*</sup></td>
     <td>Yes</td>
   </tr>
 </table>
@@ -66,6 +66,10 @@ or [look at the layout in Oryx](https://configure.ergodox-ez.com/ergodox-ez/layo
     <td>Kailh Thick Gold</td>
   </tr>
 </table>
+
+\*: I originally bought the wing rests too, but
+soon found that I prefered using the keyboard
+without them, and therefore I am not using those.
 
 ## Building from source
 
