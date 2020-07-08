@@ -37,7 +37,7 @@ to stay up forever, eh? Hence this repo.
 ## Have a look at the layout
 
 Look at [the PDF](configuration.pdf) included in this repo,
-or [look at the layout in Oryx](https://configure.ergodox-ez.com/ergodox-ez/layouts/PBKjJ/bn4Lp/0).
+or [look at the layout in Oryx](https://configure.ergodox-ez.com/ergodox-ez/layouts/PBKjJ/yMnyz/0).
 
 ## ErgoDox EZ keyboard model
 
@@ -78,11 +78,11 @@ See [ergodox_ez_instructions.md](ergodox_ez_instructions.md).
 ## Using pre-built firmware image
 
 Download firmware image using link at
-https://configure.ergodox-ez.com/ergodox-ez/layouts/PBKjJ/bn4Lp/0
+https://configure.ergodox-ez.com/ergodox-ez/layouts/PBKjJ/yMnyz/0
 or download a copy of the same firmware image from
-https://github.com/ctsrc/ergodox-ez-shine-dvorak/releases/download/2020-07-08-bn4Lp/ergodox_ez_dvorak_PBKjJ_bn4Lp.hex
+https://github.com/ctsrc/ergodox-ez-shine-dvorak/releases/download/2020-07-08-yMnyz/ergodox_ez_dvorak_PBKjJ_yMnyz.hex
 
-SHA256 (`ergodox_ez_dvorak_PBKjJ_bn4Lp.hex`) = 81260e7c6c41c7414e12b85891ce5229120ff877940d8f38eacdd32522782547
+SHA256 (`ergodox_ez_dvorak_PBKjJ_yMnyz.hex`) = 5bbf76b8624bc0132acb5ade9ad9dd7e5174f27098a40dac73ce32b12236f1b6
 
 ## Flashing the firmware image
 
