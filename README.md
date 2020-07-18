@@ -51,7 +51,7 @@ or [look at the layout in Oryx](https://configure.ergodox-ez.com/ergodox-ez/layo
   <tr>
     <td>Black</td>
     <td>Yes</td>
-    <td>No<sup>*</sup></td>
+    <td>Yes<sup>*</sup></td>
     <td>Yes</td>
   </tr>
 </table>
@@ -67,9 +67,12 @@ or [look at the layout in Oryx](https://configure.ergodox-ez.com/ergodox-ez/layo
   </tr>
 </table>
 
-\*: I originally bought the wing rests too, but
-soon found that I prefered using the keyboard
-without them, and therefore I am not using those.
+\*: For a long while, I prefered using the keyboard
+without the wing rests. Currently I am using them again.
+I think that their utility depends a bit on your posture,
+position of keyboard relative to body and to the placement
+of the keyboard on the table and how much room you have
+available on the table.
 
 ## Building from source
 
