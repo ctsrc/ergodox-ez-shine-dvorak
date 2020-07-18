@@ -51,7 +51,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     MO(1),          KC_TRANSPARENT, KC_TRANSPARENT, KC_LALT,        MO(3),                                                                                                          MO(2),          KC_LEFT,        KC_DOWN,        KC_UP,          KC_RIGHT,
                                                                                                     KC_KP_SLASH,    KC_MINUS,       KC_PLUS,        KC_KP_ASTERISK,
                                                                                                                     KC_TRANSPARENT, KC_TRANSPARENT,
-                                                                                    KC_SPACE,       KC_LGUI,        MO(1),          KC_TRANSPARENT, KC_RGUI,        KC_SPACE
+                                                                                    KC_SPACE,       KC_LGUI,        MO(2),          KC_TRANSPARENT, KC_RGUI,        KC_SPACE
   ),
   [1] = LAYOUT_ergodox_pretty(
     KC_F1,          KC_F2,          KC_F3,          KC_F4,          KC_F5,          KC_F6,          KC_NO,                                          KC_NO,          KC_F7,          KC_F8,          KC_F9,          KC_F10,         KC_F11,         KC_F12,
@@ -68,7 +68,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,                                          KC_NO,          KC_NO,          KC_NO,          KC_LPRN,        KC_RPRN,        KC_NO,          KC_NO,
     KC_NO,          HSV_172_255_255,HSV_86_255_128, HSV_27_255_255, HSV_215_255_128,HSV_0_255_255,                                                                  KC_NO,          KC_LBRACKET,    KC_LCBR,        KC_RCBR,        KC_RBRACKET,    KC_NO,
     KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,                                          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,
-    KC_TRANSPARENT, KC_NO,          KC_NO,          KC_NO,          KC_NO,                                                                                                          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,
+    KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,                                                                                                          KC_NO,          KC_NO,          KC_NO,          KC_NO,          KC_NO,
                                                                                                     RGB_HUD,        RGB_HUI,        RGB_VAI,        RGB_VAD,
                                                                                                                     KC_NO,          KC_NO,
                                                                                     RGB_TOG,        RGB_SLD,        KC_TRANSPARENT, KC_NO,          RGB_MOD,        KC_NO
