@@ -11,4 +11,4 @@ Here are some initial pointers to get you started:
 - Make sure you've set up your environment per the [QMK docs](https://docs.qmk.fm/#/newbs_getting_started?id=set-up-your-environment) so compilation would actually work.
 - From your shell, make sure your working directory is qmk*firmware, then enter the command `make ergodox_ez:_layout_`, substituting the name of the folder you created for "_layout_".
 
-Good luck on your journey! And remember, if you get stuck, you can always get back to your [original layout](https://configure.ergodox-ez.com/ergodox-ez/layouts/PBKjJ/L55vy/0) from Oryx.
+Good luck on your journey! And remember, if you get stuck, you can always get back to your [original layout](https://configure.ergodox-ez.com/ergodox-ez/layouts/PBKjJ/eBB9l/0) from Oryx.
