@@ -1,7 +1,7 @@
 # ergodox-ez-shine-dvorak
 
-Dvorak keyboard layout for ErgoDox EZ Shine, heavily
-inspired by the key placement of the TypeMatrix 2030 USB.
+Dvorak keyboard layout for ErgoDox EZ Shine, inspired by
+the key placement of the TypeMatrix 2030 USB.
 
 <figure>
 <img src=ErgoDox-EZ-Shine.svg alt="ErgoDox EZ Shine">
